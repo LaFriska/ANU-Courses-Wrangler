@@ -8,15 +8,15 @@ root = tree.getroot()
 items = root[0]
 
 
-def getSpecificCourses(courseType, career):
+def getSpecificCourses(courseType, careerFilter):
     res = []
     for child in items:
-        if child[1].text.startswith(courseType) & (child[0].text == career):
+        if child[1].text.startswith(courseType) & ((careerFilter is None) | (child[0].text == careerFilter)):
             res.append(child)
     return res
 
 
-compCourses = getSpecificCourses("MATH", "Undergraduate")
+compCourses = getSpecificCourses("MATH", None)
 
 for course in compCourses:
     print(course[3].text)
