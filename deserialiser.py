@@ -7,4 +7,16 @@ tree = ET.parse('courses.xml')
 root = tree.getroot()
 items = root[0]
 
-print(len(items))
+
+def getSpecificCourses(courseType, career):
+    res = []
+    for child in items:
+        if child[1].text.startswith(courseType) & (child[0].text == career):
+            res.append(child)
+    return res
+
+
+compCourses = getSpecificCourses("MATH", "Undergraduate")
+
+for course in compCourses:
+    print(course[3].text)
