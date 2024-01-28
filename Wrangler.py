@@ -5,12 +5,13 @@ import requests
 from bs4 import BeautifulSoup
 from Course import Course
 from Course import Courses
+from UncleanedRequisite import UncleanedRequisiteRecords
+from UncleanedRequisite import UncleanedRequisite
 import json
 
 tree = ET.parse('courses.xml')
 root = tree.getroot()
 items = root[0]
-
 
 def getSpecificCourses(subjectCodes, careerFilter):  # Deserialises XML and retrieves objects with specific course type
     res = []
@@ -27,11 +28,23 @@ def compare(text, subjectCodes):
 
 
 # This function isn't actually used, but I kept it here incase it is needed in the future
-def fetchRequirementsAndIncompatibility(courseCode):
+def fetchRequisites(courseCode):
+    print(courseCode)
     response = requests.get(f"https://programsandcourses.anu.edu.au/2024/course/{courseCode}")
     soup = BeautifulSoup(response.text, "html.parser")
-    program_requirements = soup.find_all("div", {"class": "requisite"})[0]
+    program_requirements = soup.find("div", {"class": "requisite"})
+    if program_requirements is None:
+        err = "ERROR: CANNOT FETCH FOR " + courseCode
+        print(err)
+        return err
     return program_requirements.get_text(strip=True, separator="\n")
+
+
+def serialiseUncleanedRequisites(records):
+    res = UncleanedRequisiteRecords()
+    for record in records:
+        res.append(UncleanedRequisite(courseCode=record[1].text ,requisites=fetchRequisites(record[1].text)))
+    return json.dumps(res, default=lambda o: o.__dict__, indent=4)
 
 
 def serialiseToJSONTemplate(records):
@@ -56,4 +69,4 @@ def serialiseToJSONTemplate(records):
 
 courses = getSpecificCourses(["COMP", "MATH"], None)
 print(serialiseToJSONTemplate(courses))
-print(len(courses))
+print(serialiseUncleanedRequisites(courses))

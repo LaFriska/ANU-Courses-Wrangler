@@ -16,3 +16,6 @@ class Courses:
 
     def append(self, course):
         self.courseArray.append(course)
+
+    def getCourseArray(self):
+        return self.courseArray

@@ -1,0 +1,816 @@
+{
+    "uncleanedRequisites": [
+        {
+            "courseCode": "MATH2322",
+            "requirements": "To enrol in this course you must have completed\nMATH1116\nwith a mark of at least 60. Students who are concurrently enrolled in\nMATH1116\nand have completed at least one of\nMATH1115\nwith a mark of at least 90 or\nMATH2222\nwith a mark of at least 90 can contact the course convener to request a permission code.\nIncompatible with\nMATH3104"
+        },
+        {
+            "courseCode": "MATH3345",
+            "requirements": "To enrol in this course you must have successfully completed either\nMATH2322\nor\nMATH3104\nwith a mark of 60 and above."
+        },
+        {
+            "courseCode": "COMP4600",
+            "requirements": "To enrol in this course you must have completed\nCOMP3600\nand 18 units of 3000 level COMP courses. Incompatible with\nCOMP8460\n."
+        },
+        {
+            "courseCode": "COMP8460",
+            "requirements": "To enrol in this course, you must have completed\nCOMP6466\nor\nCOMP3600\n.\n\nIncompatible with\nCOMP4600\n."
+        },
+        {
+            "courseCode": "MATH2320",
+            "requirements": "To enrol in this course you must have successfully completed\nMATH1116\nwith a mark of 60 or above. You are not able to enrol in this course if you have previously completed\nMATH3116\n."
+        },
+        {
+            "courseCode": "MATH3320",
+            "requirements": "To enrol in this course you must have successfully completed\nMATH2320\nwith a mark of 60 and above."
+        },
+        {
+            "courseCode": "MATH3228",
+            "requirements": "To enrol in this course you must have successfully completed\nMATH2320\nwith a mark of 60 and above."
+        },
+        {
+            "courseCode": "COMP4820",
+            "requirements": "To enrol in this course you must be studying a Bachelor of Advanced Computing (4716) or Bachelor of Advanced Computing/Bachelor of Science (4719) and have successfully completed\nCOMP2100\nand\nCOMP2120\nand 12 units of 3000 level COMP courses. Incompatible with\nCOMP4500\n,\nCOMP4550\n,\nCOMP4560\n, and\nCOMP4810\n.\n\nYou will need to undergo competitive entry to enrol in this course, please see CECC webpage for more information."
+        },
+        {
+            "courseCode": "COMP4560",
+            "requirements": "To enrol in this course you must must be studying a Bachelor of Advanced Computing 4716 or Bachelor of Advanced Computing/Science 4719.\n\nYou are not able to enrol in this course if you have previously completed\nCOMP4500\nor\nCOMP4550\nor\nCOMP4810\n.\n\nStudents must complete the steps listed on Enrolling in student projects and complete the Student Project Registration Form to enrol."
+        },
+        {
+            "courseCode": "COMP8800",
+            "requirements": "To enrol in this course you must:\n\nbe enrolled in the Master of Computing (Advanced) AND\nhave completed\nCOMP6445\nAND\nCOMP6442\nAND\nCOMP8260\nAND\nrecieve a permission code by completing the steps listed on Enrolling in student projects and having submitted the Student Project Registration Form\nOR\n\nbe enrolled in the Master of Machine and Computer Learning AND\nhave completed\n(\nCOMP6710\nOR\nCOMP6730\n) AND\n(\nCOMP6250\nOR\nCOMP8260\n) AND\nhave completed OR be currently enrolled in\nCOMP6445\nAND\nreceive a permission code by completing the steps listed on Enrolling in student projects and having submitted the Student Project Registration Form\n\nIncompatible with\nCOMP8715\n.\n\nYou also need to have a signed 'Independent Study contract' with a supervisor before the start of the semester in which you plan to start your project."
+        },
+        {
+            "courseCode": "COMP8715",
+            "requirements": "To enrol in this course you must meet the eligibility criteria, which includes membership of a student project group before the end of week 1, where the project has been approved by the convener.\n\nTo enrol in this course you must:\nbe enrolled in the Master of Computing AND \nhave successfully completed:\nCOMP6442\nor\nCOMP2100\nAND\nCOMP8260\nOR\nbe enrolled in the Master of Machine Learning and Computer Vision AND \nhave successfully completed:\nCOMP6710\nor\nCOMP6730\nor\nCOMP1110\nAND\nCOMP6250\nor\nCOMP8260\nor\nENGN6250\nor\nENGN8260\nIncompatible with\nCOMP8755\nand\nCOMP8830\nand\nCOMP8800"
+        },
+        {
+            "courseCode": "MATH3342",
+            "requirements": "To enrol in this course you must have successfully completed either\nMATH2320\nor\nMATH3116\nwith a mark of 60 and above."
+        },
+        {
+            "courseCode": "MATH6214",
+            "requirements": "Incompatible with\nMATH3325"
+        },
+        {
+            "courseCode": "MATH3325",
+            "requirements": "To enrol in this course you must have successfully completed\nMATH3320\nwith a mark of 60 or above. Incompatible with\nMATH6214\n."
+        },
+        {
+            "courseCode": "MATH3353",
+            "requirements": "To enrol in this course you must have successfully completed\nMATH2305\n,\nMATH2307\n, and  either\nSTAT1003\nor\nSTAT1008\n. Incompatible with\nMATH6208\n."
+        },
+        {
+            "courseCode": "MATH6208",
+            "requirements": "Incompatible with\nMATH3353"
+        },
+        {
+            "courseCode": "MATH1115",
+            "requirements": "If you have previously completed\nMATH1013\nor\nMATH1113\nthen you can only enrol in\nMATH1115\nwith the permission of the course convener."
+        },
+        {
+            "courseCode": "MATH1116",
+            "requirements": "To enrol in this course you must have completed\nMATH1115\nwith a mark of 60 or above or\nMATH1113\nwith a mark of 80 or above. \n\nYou may not enrol in\nMATH1116\nif you have previously completed\nMATH1014\n."
+        },
+        {
+            "courseCode": "MATH3354",
+            "requirements": "To enrol in this course you must have successfully completed\nMATH3345\n. Incompatible with\nMATH6216\n."
+        },
+        {
+            "courseCode": "MATH6216",
+            "requirements": "Incompatible with\nMATH3354"
+        },
+        {
+            "courseCode": "COMP4620",
+            "requirements": "To enrol in this course you must have completed\nCOMP3620\n. \nIncompatible with\nCOMP8620\n."
+        },
+        {
+            "courseCode": "COMP8620",
+            "requirements": "To enrol in this course you must have completed\nCOMP6320\nor\nCOMP3620\n.\n\nIncompatible with\nCOMP4620\n."
+        },
+        {
+            "courseCode": "COMP4045",
+            "requirements": "12 unit 3000 level COMP courses"
+        },
+        {
+            "courseCode": "COMP8045",
+            "requirements": "12 units of 6000-level COMP courses"
+        },
+        {
+            "courseCode": "COMP8539",
+            "requirements": "To enrol in this course you must have completed:\nCOMP6528\nor\nCOMP4528\nor\nENGN4528\n.\n\nYou are not able to enrol in this course if you have previously completed\nENGN8501\n."
+        },
+        {
+            "courseCode": "COMP8536",
+            "requirements": "To enrol in this course you must be studying Master of Engineering or Master of Machine Learning and Computer Vision or Master of Computing (Advanced).\n\nStudents must have completed either\nCOMP6710\nor\nCOMP6730\nor equivalent."
+        },
+        {
+            "courseCode": "COMP8011",
+            "requirements": "To enrol in this course you must have successfully completed 12 units of 6000-level COMP courses.\n\nA permission code will be needed to enrol to ensure students have the required background for each Advanced Topic."
+        },
+        {
+            "courseCode": "COMP4011",
+            "requirements": "12 unit 3000 level COMP courses"
+        },
+        {
+            "courseCode": "COMP8670",
+            "requirements": "To enrol in this course you must have successfully completed\nCOMP2620\n/\nCOMP6262\nor\nMATH3343\n/\nMATH6203\n."
+        },
+        {
+            "courseCode": "COMP8650",
+            "requirements": "To enrol in this course you must have completed:\nCOMP6670\nor\nCOMP3670\nor\nCOMP8600\nor\nCOMP4670\nIncompatible with\nCOMP4680\n."
+        },
+        {
+            "courseCode": "COMP4680",
+            "requirements": "To enrol in this course you must have completed\nCOMP4670\n. Incompatible with\nCOMP8650\n."
+        },
+        {
+            "courseCode": "MATH3351",
+            "requirements": "To enrol in this course you must have successfully completed:\nMATH2306\n(Applied Mathematics II) with a mark of 60 or above\nAND either\nMATH2322\n(Advanced Algebra 1)\nMATH2320\n(Advanced Analysis 1)\nIncompatible with\nMATH6211\n."
+        },
+        {
+            "courseCode": "MATH6118",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH6118"
+        },
+        {
+            "courseCode": "MATH6215",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH6215"
+        },
+        {
+            "courseCode": "MATH1003",
+            "requirements": "You are not able to enrol in this course if you have previously studied\nMATH1013\nor\nMATH1113\nor\nMATH1115"
+        },
+        {
+            "courseCode": "MATH8204",
+            "requirements": "To enrol in this course you need to be enrolled in the Master of Science in Mathematical Sciences or the Master of Mathematical Sciences (Advanced).\nTo enrol in this course you must have successfully completed\nMATH6118\nand of one of (\nMATH6215\n, MATH6212or\nMATH6205\n) or equivalent.\nIncompatible with\nMATH6204\nand\nMATH4204\n."
+        },
+        {
+            "courseCode": "MATH4204",
+            "requirements": "To enrol in this course you need to be undertaking the MATH-HSPC Honours specialisation.\nTo enrol in this course you must have successfully completed\nMATH2322\nor\nMATH3104\nand completion of one of\nMATH3345\n,\nMATH3320\nor\nMATH3342\n.\nIncompatible with\nMATH6204\nand\nMATH8204\n."
+        },
+        {
+            "courseCode": "COMP3600",
+            "requirements": "To enrol in this course you must have completed\nCOMP1110\nor\nCOMP1140\n; and 6 units of 2000-level COMP courses; and 6 units of 2000-level MATH courses or\nCOMP1600\n. You are not able to enrol in this course if you have successfully completed\nCOMP6466\n."
+        },
+        {
+            "courseCode": "COMP6466",
+            "requirements": "To enrol in this course you must:\n\nbe studying Master of Computing or  Master of Computing Advanced\nor have successfully completed\nCOMP6710\nor\nCOMP1110\nor\nCOMP1140\n.\n\nYou are not able to enrol in this course if you have successfully completed\nCOMP3600\n."
+        },
+        {
+            "courseCode": "MATH6110",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH6110"
+        },
+        {
+            "courseCode": "MATH6212",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH6212"
+        },
+        {
+            "courseCode": "MATH2305",
+            "requirements": "If you have successfully completed\nMATH1113\nwith a mark of at least 80 and are currently enrolled in\nMATH1014\n, then you may enrol in this course. Otherwise to enrol in this course you must have successfully completed either\nMATH1116\nor\nMATH1014\n."
+        },
+        {
+            "courseCode": "MATH2306",
+            "requirements": "To enrol in this course you must have successfully completed\nMATH2305\nwith a mark of at least 60 or\nMATH2405\n. You are not able to enrol in this course if you have previously completed\nMATH2406"
+        },
+        {
+            "courseCode": "COMP1720",
+            "requirements": "Incompatible with\nCOMP6720"
+        },
+        {
+            "courseCode": "COMP6720",
+            "requirements": "Incompatible with\nCOMP1720"
+        },
+        {
+            "courseCode": "COMP3620",
+            "requirements": "To enrol in this course you must have completed\nCOMP1110\nor\nCOMP1140\nand\nCOMP2620\n. Incompatible with\nCOMP6320\n."
+        },
+        {
+            "courseCode": "COMP6320",
+            "requirements": "To enrol in this course you must have completed\nCOMP6710\nOR\nCOMP1110\nAND\nhave completed or be currently enrolled in\nCOMP6262\nOR\nCOMP2620\nOR\nPHIL2080\n.\n\nIncompatible with\nCOMP3620\n."
+        },
+        {
+            "courseCode": "MATH2307",
+            "requirements": "To enrol in this course you must have successfully completed 12 units of 1000 levels Mathematics (MATH) courses including either\nMATH1014\nor\nMATH1116\n. You are not able to enrol in this course if you have completed\nMATH6100\n."
+        },
+        {
+            "courseCode": "MATH6100",
+            "requirements": "To enrol in this course you must be studying a Master of Mathematical Sciences, Master of Biotechnology, Master of Biotechnology (Advanced), Master of Science (Advanced) in Quantitative Biology and Bioinformatics or Master of Science in Quantitative Biology and Bioinformatics.\nYou are not able to enrol in this course if you have completed\nMATH2307\n."
+        },
+        {
+            "courseCode": "COMP4712",
+            "requirements": "To enrol in this course you must have completed:\nCOMP2100\nAND\nCOMP2310\nAND\n\n6 units of 3000-level COMP courses.\n\n\nStudents who have previously completed\nCOMP3710\n- please contact CECC Student Services for a Permission Code."
+        },
+        {
+            "courseCode": "COMP8712",
+            "requirements": "To enrol in this course you must have complete\nCOMP6710\nAND\nCOMP6442\nAND\nCOMP6310\n.\n\nStudents who have previously completed\nCOMP3710\nor\nCOMP6470\n- please contact CECC Student Services for a Permission Code."
+        },
+        {
+            "courseCode": "MATH6213",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH6213"
+        },
+        {
+            "courseCode": "COMP4880",
+            "requirements": "To enrol in this course you must have completed\nCOMP3670\n, or you must have completed all of the following:\nCOMP1110\nor\nCOMP1140\nand\nMATH1014\nor\nMATH1115\n. \nIncompatible with\nCOMP8880\n."
+        },
+        {
+            "courseCode": "COMP8880",
+            "requirements": "To enrol in this course you must have completed\nCOMP6670\n; OR\n   (6 units of either\nCOMP6710\nor\nCOMP6730\nor\nCOMP7230\n) and (either\nCOMP8410\nor\nCOMP8910\n) and\nSTAT6039\n.\nIncompatible with\nCOMP4880\nand\nCOMP8980\n."
+        },
+        {
+            "courseCode": "COMP8980",
+            "requirements": "To enrol in this course you must have completed\nCOMP6670\nOR \n(\nCOMP6710\nor\nCOMP6730\nor\nCOMP7230\n) AND\nCOMP8410\nAND\nSTAT6039\nAND be enrolled in MADAN.\nIncompatible with\nCOMP4880\nand\nCOMP8880\n."
+        },
+        {
+            "courseCode": "COMP8610",
+            "requirements": "To enrol in this course you must:\n\nbe studying Master of Computing or Master of Computing Advanced OR \nhave successfully completed\nCOMP6710\nor\nCOMP1110\nor\nCOMP1140\n.\n\nYou are not able to enrol in this course if you have successfully completed\nCOMP4610\n."
+        },
+        {
+            "courseCode": "COMP4610",
+            "requirements": "To enrol in this course you must have completed 6 units of 3000 level COMP courses. You are not able to enrol in this course if you have successfully completed\nCOMP6461\n."
+        },
+        {
+            "courseCode": "COMP6331",
+            "requirements": "To enrol in this course you must have completed:\nCOMP6710\nOR\nCOMP1110\nOR\nCOMP1140\nOR\nCOMP6310\nOR\nCOMP2310\nOR\nCOMP6442\nOR\nCOMP2100\n.\n\nIncompatible with\nCOMP3310\n,\nENGN3539\n,\nENGN6539\n."
+        },
+        {
+            "courseCode": "COMP3310",
+            "requirements": "To enrol in this course you must have completed\nCOMP2100\nor\nCOMP2300\n.\nAND 6 units of\nCOMP2000\n-level courses.\n\nIncompatible with\nCOMP6331\n,\nENGN3539\nand\nENGN6539\n."
+        },
+        {
+            "courseCode": "COMP6300",
+            "requirements": "To enrol in this course you must be studying a Master of Computing, Master of Computing (Advanced) or completed or currently studying\nCOMP6700\nor\nCOMP6710\n.\n\nIncompatible with\nCOMP2300\n,\nENGN2219\nand\nCOMP6719\n."
+        },
+        {
+            "courseCode": "COMP2300",
+            "requirements": "To enrol in this course you must have completed\nCOMP1100\nor\nCOMP1130\nor\nCOMP1730\n; AND 6 units of 1000-level MATH courses. Incompatible with\nCOMP6300\n,\nENGN2219\nand\nCOMP6719\n."
+        },
+        {
+            "courseCode": "COMP4006",
+            "requirements": "To enrol in this course you must be studying a BCS (Hons)."
+        },
+        {
+            "courseCode": "COMP4005F",
+            "requirements": "ERROR: CANNOT FETCH FOR COMP4005F"
+        },
+        {
+            "courseCode": "COMP4005P",
+            "requirements": "ERROR: CANNOT FETCH FOR COMP4005P"
+        },
+        {
+            "courseCode": "COMP6719",
+            "requirements": "To enrol in this course you must be studying a Master of Computing or have successfully completed one of:\nCOMP6700\n- Introductory Programming\nCOMP6710\n- Structured Programming\nIncompatible with:\nENGN2219\n- Introduction to Microprocessor Systems\nCOMP2300\n- Computer Organisation\nCOMP6300\n- Computer Organisation"
+        },
+        {
+            "courseCode": "COMP6528",
+            "requirements": "To enrol in this course you must be studying one of:\n\nMaster of Machine Learning and Computer Vision\nMaster of Computing\nMaster of Computing (Advanced).\n\nIncompatible with\nENGN6528\nand\nCOMP4528\nand\nENGN4528\n."
+        },
+        {
+            "courseCode": "COMP4528",
+            "requirements": "To enrol in this course you must have completed either\nENGN2228\nor\nCOMP2120\nor\nCOMP3600\nor\nCOMP3670\n.\n\nIncompatible with\nENGN6528\nand\nENGN4528\n."
+        },
+        {
+            "courseCode": "COMP3820",
+            "requirements": "To enrol in this course you must have successfully completed\nCOMP2100\nand\nCOMP2120\n.\n\nYou will need to undergo competitive entry to enrol in this course, please see CECC webpage for more information.\n\nYou are not able to enrol in this course if you have previously completed or are currently enrolled in\nCOMP3500\n."
+        },
+        {
+            "courseCode": "COMP8830",
+            "requirements": "To enrol in this course you must\n   - be enrolled in the Master of Computing AND have successfully completed\nCOMP8260\nand\nCOMP6442\n, OR\n   - be enrolled in the Master of Machine Learning and Computer Vision AND have successfully completed:\nCOMP6710\nOR\nCOMP6730\n, AND\nCOMP6250\nOR\nCOMP8260\nOR\nENGN6250\nOR\nENGN8260\n.\nIncompatible with\nCOMP8715\nand\nCOMP8755\n.\n\nYou will need to undergo competitive entry to enrol in this course, please see CECS webpage for more information."
+        },
+        {
+            "courseCode": "COMP2550",
+            "requirements": "To enrol in this course you must be enrolled in the Bachelor of Advanced Computing (Research and Development) (Honours).\n\nIncompatible with\nCOMP4450\n."
+        },
+        {
+            "courseCode": "COMP4450",
+            "requirements": "To enrol in this course you must have successfully completed:\nCOMP1100\nOR\nCOMP1130\nOR\nCOMP1730\nIncompatible with\nCOMP2550\nand\nCOMP6445\n."
+        },
+        {
+            "courseCode": "COMP6445",
+            "requirements": "To enrol in this course you must be enrolled in the Master of Computing (Advanced).\n\nMMLCV students need to apply for a permission code by following the college process here to enrol.\n\nIncompatible with\nCOMP2550\nand\nCOMP4450"
+        },
+        {
+            "courseCode": "COMP4550",
+            "requirements": "To enrol in this course you must:\n\nHave completed or be currently enrolled in\nCOMP4450\nAND\nfind a project/supervisor AND\nhave a weighted average mark equivalent to an ANU 70 per cent calculated from the 36 units of courses with the highest marks in cognate disciplines (excluding 1000-level courses) AND \nhave received a permission code by having completed all the steps required for Enrolling in student projects including completing the Student Project Registration Form.\n\nFinding a project/supervisor is best done before the start of the semester you are intending to do this course."
+        },
+        {
+            "courseCode": "COMP3770",
+            "requirements": "To enrol you must:\n\nbe studying Bachelor of Advanced Computing (Research and Development) AND\nhave successfully completed\nCOMP2550\nAND\nfind a project/supervisor AND\nhave received a permission code by having completed all the steps required for Enrolling in student projects including completing the Student Project Registration Form.\nFinding a project/supervisor is best done before the start of the semester you are intending to do this course."
+        },
+        {
+            "courseCode": "COMP2700",
+            "requirements": "To enrol in this course you must have completed\nCOMP1100\nor\nCOMP1130\n; and\nCOMP1600\n."
+        },
+        {
+            "courseCode": "COMP3425",
+            "requirements": "To enrol in this course you must have completed\n    6 units from\nCOMP1100\nor\nCOMP1130\nor\nCOMP1730\n; AND\nCOMP2400\nIncompatible with\nCOMP3420\n,\nCOMP8400\n,\nCOMP8410\nand\nCOMP8910\n."
+        },
+        {
+            "courseCode": "COMP8410",
+            "requirements": "To enrol in this course you must have completed\nCOMP7240\nor\nCOMP6240\nor\nCOMP2400\n; and\nCOMP6730\nor\nCOMP7230\nor\nCOMP6710\n.\n\nIncompatible with\nCOMP3420\nand\nCOMP3425\nand\nCOMP8400\nand\nCOMP8910\n."
+        },
+        {
+            "courseCode": "COMP8910",
+            "requirements": "To enrol in this course you must have completed\nCOMP7240\nor\nCOMP6240\nor\nCOMP2400\n; and\nCOMP6730\nor\nCOMP7230\nor\nCOMP6710\n; and\n    be enrolled in the Master of Applied Data Analytics or the Graduate Diploma of Applied Data Analytics or the Graduate Certificate of Data Engineering.\n\nIncompatible with\nCOMP3420\nand\nCOMP3425\nand\nCOMP8400\nand\nCOMP8410\n."
+        },
+        {
+            "courseCode": "COMP8430",
+            "requirements": "To enrol in this course you must have completed either\nCOMP7230\n,\nCOMP6730\nor\nCOMP6710\n; AND\nCOMP7240\nor\nCOMP6240\n.\nIncompatible with\nCOMP3430\n.\nA permission code is needed to take this course in intensive mode."
+        },
+        {
+            "courseCode": "COMP3430",
+            "requirements": "Students are required to have completed introductory courses on databases, programming and algorithms. \nTo enrol in this course you must have completed\n   6 units from\nCOMP1030\nor\nCOMP1100\nor\nCOMP1130\nor\nCOMP1730\n; AND\n   6 units from\nCOMP1040\nor\nCOMP1110\nor\nCOMP1140\n; AND\nCOMP2400\nIncompatible with\nCOMP8430\nand\nCOMP8930\n."
+        },
+        {
+            "courseCode": "COMP8930",
+            "requirements": "To enrol in this course you must have completed\n   either\nCOMP7230\n,\nCOMP6730\nor\nCOMP6710\n; AND\n   either\nCOMP7240\nor\nCOMP6240\n; AND\n   be enrolled in either the Master of Applied Data Analytics or the Graduate Diploma of Applied Data Analytics or the Graduate Certificate of Data Engineering.\n\nIncompatible with\nCOMP3430\nand\nCOMP8430\n."
+        },
+        {
+            "courseCode": "MATH6205",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH6205"
+        },
+        {
+            "courseCode": "MATH6005",
+            "requirements": "CECS students must be enrolled in a Graduate Diploma of Computing or a Master of Computing to enrol in this course."
+        },
+        {
+            "courseCode": "MATH1005",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH1005"
+        },
+        {
+            "courseCode": "COMP4650",
+            "requirements": "To enrol in this course you must have completed 12 units of 3000 level COMP courses or INFS courses; and\nCOMP2600\nor\nCOMP1600\nor 6 units of MATH or STAT courses; and at least 6 units of programming courses including\nCOMP1100\n/1130,\nCOMP1110\n/1140,\nCOMP1730\nor\nCOMP2100\nor equivalent. Incompatible with\nCOMP6490\n."
+        },
+        {
+            "courseCode": "COMP6490",
+            "requirements": "Incompatible with\nCOMP4650\nand\nCOMP6990\n."
+        },
+        {
+            "courseCode": "COMP6990",
+            "requirements": "To enrol in this course you must be studying a Master of Applied Data Analytics.\nIncompatible with\nCOMP4650\nand\nCOMP6490\n."
+        },
+        {
+            "courseCode": "COMP8535",
+            "requirements": "To enrol in this course you must be studying Master of Engineering or Master of Machine Learning and Computer Vision or Master of Computing (Advanced)"
+        },
+        {
+            "courseCode": "MATH3133",
+            "requirements": "To enrol in this course you must have successfully completed\nMATH2305\nor\nMATH2405\n. You are not able to enrol in this course if you have completed\nMATH6102"
+        },
+        {
+            "courseCode": "MATH6102",
+            "requirements": "You are not able to enrol in this course if you have completed\nMATH3133"
+        },
+        {
+            "courseCode": "COMP8820",
+            "requirements": "ERROR: CANNOT FETCH FOR COMP8820"
+        },
+        {
+            "courseCode": "COMP5920",
+            "requirements": "ERROR: CANNOT FETCH FOR COMP5920"
+        },
+        {
+            "courseCode": "COMP1600",
+            "requirements": "To enrol in this course you must have completed:\n\n6 units of MATH courses and\nCOMP1100\nor\nCOMP1130\n.\n\nIt is incompatible with\nCOMP6260\n."
+        },
+        {
+            "courseCode": "COMP6260",
+            "requirements": "Incompatible with\nCOMP1600"
+        },
+        {
+            "courseCode": "MATH8343",
+            "requirements": "To enrol in this course you need to be active in the Master of Mathematical Sciences (Advanced) or Master of Science in Mathematical Sciences.\nIncompatible with\nMATH3343\n,\nMATH4343\nand\nMATH6203\n."
+        },
+        {
+            "courseCode": "MATH4343",
+            "requirements": "To enrol in this course you need to be undertaking the MATH-HSPC Honours specialisation.\nIncompatible with\nMATH3343\n,\nMATH6203\nand\nMATH8343\n."
+        },
+        {
+            "courseCode": "MATH3062",
+            "requirements": "To enrol in this course you must have successfully completed any 2000 or 3000 level Mathematics (MATH) course with a mark of 60 or greater or\nMATH1116\nwith a mark of 80 or greater. Incompatible with\nMATH6116\n."
+        },
+        {
+            "courseCode": "MATH6116",
+            "requirements": "Incompatible with\nMATH3062"
+        },
+        {
+            "courseCode": "COMP6540",
+            "requirements": "To enrol in this course you must have completed\nCOMP6710\nor\nCOMP1110\nor\nCOMP1140\n."
+        },
+        {
+            "courseCode": "COMP3540",
+            "requirements": "To enrol in this course you must have completed 12 units of 2000 level COMP courses."
+        },
+        {
+            "courseCode": "MATH2301",
+            "requirements": "To enrol in this course you must have completed\nMATH1005\n,\nMATH1013\n,\nMATH1113\n, or\nMATH1115\n."
+        },
+        {
+            "courseCode": "COMP3320",
+            "requirements": "To enrol in this course you must have completed\nCOMP2100\nor\nCOMP2500\nor\nCOMP2300\n; AND\nCOMP2600\nor\nCOMP1600\nor 6 units of 2000 level MATH courses; AND 6 units of 2000 level COMP courses."
+        },
+        {
+            "courseCode": "COMP6464",
+            "requirements": "To enrol in this course you must:\n\nbe studying Master of Computing or \nMaster of Computing (Advanced)  or \nhave successfully completed\nCOMP6710\nor\nCOMP1110\n.\n\nYou are not able to enrol in this course if you have previously completed\nCOMP3320\n."
+        },
+        {
+            "courseCode": "COMP6390",
+            "requirements": "To enrol in this course you must:\n\nbe studying Master of Computing or Master of Computing Advanced or\nhave completed\nCOMP6442\n.\n\nIncompatible with\nCOMP3900\n."
+        },
+        {
+            "courseCode": "COMP3900",
+            "requirements": "To enrol in this course you must have completed 12 units of 2000 level COMP courses.\nIncompatible with\nCOMP6390\n."
+        },
+        {
+            "courseCode": "COMP8755",
+            "requirements": "To enrol in this course you must:\n\nbe enrolled in the Master of Computing AND\nhave completed\nCOMP8260\nAND\nhave completed\nCOMP6442\nAND\nreceive a permission code by completing the steps listed on Enrolling in student projects including the Student Project Registration Form.\n\nIncompatible with\nCOMP8715\nand\nCOMP8830\n."
+        },
+        {
+            "courseCode": "COMP3740",
+            "requirements": "72 units of Tertiary courses\n\nStudents will receive a permission code by completing the steps listed on Enrolling in student projects including the Student Project Registration Form."
+        },
+        {
+            "courseCode": "COMP4800",
+            "requirements": "To enrol in this course you must have completed\nCOMP3500\n."
+        },
+        {
+            "courseCode": "COMP6261",
+            "requirements": "You cannot enrol in this course if you have completed\nCOMP2610\nor\nENGN8534\n."
+        },
+        {
+            "courseCode": "COMP2610",
+            "requirements": "You cannot enrol in this course if you have completed\nCOMP6261\nor\nENGN8534\n."
+        },
+        {
+            "courseCode": "COMP6420",
+            "requirements": "To enrol in this course you must have successfully completed:\nCOMP6710\nOR\nCOMP1110\nOR\nCOMP1140\n.\n\nYou are not able to enrol in this course if you have previously completed\nCOMP2420\n."
+        },
+        {
+            "courseCode": "COMP2420",
+            "requirements": "To enrol in this course, you must have completed\nCOMP1100\nor\nCOMP1130\n.\n\nIncompatible with\nCOMP6420"
+        },
+        {
+            "courseCode": "COMP7240",
+            "requirements": "To enrol in this course you must be enrolled in: Graduate Certificate of Applied Data Analytics or Graduate Certificate of Data Engineering or Graduate Diploma of Applied Data Analytics or Master of Applied Data Analytics. You are not able to enrol in this course if you have successfully completed\nCOMP2400\nor\nCOMP6240\n."
+        },
+        {
+            "courseCode": "COMP6670",
+            "requirements": "To enrol in this course you must have:\n\ncompleted or be currently enrolled in\nCOMP6710\nOR\nCOMP6730\nOR\nhave completed\nCOMP1110\nor\nCOMP1140\n.\n\nIncompatible with\nCOMP3670\n."
+        },
+        {
+            "courseCode": "COMP3670",
+            "requirements": "To enrol in this course you must have completed\nCOMP1110\nor\nCOMP1140\n. Incompatible with\nCOMP6670\n."
+        },
+        {
+            "courseCode": "MATH6222",
+            "requirements": "Incompatible with\nMATH2222"
+        },
+        {
+            "courseCode": "MATH2222",
+            "requirements": "Students with excellent results in either the ACT Specialist Mathematics double major, NSW HSC Mathematics Extension 2 or equivalent may take this course together with\nMATH1115\nin first year.\nAll other students may enroll in this course if they have completed\nMATH1116\nor\nMATH1113\nwith a mark of at least 60 or\nMATH1013\nor\nMATH1014\nwith a mark of at least 80.\nStudents may not take this course if they have already completed\nMATH2322\n,\nMATH3104\n,\nMATH2320\n,\nMATH3116\nor\nMATH6222\n."
+        },
+        {
+            "courseCode": "COMP7230",
+            "requirements": "To enrol in this course you must be enrolled in:\nGraduate Certificate of Applied Data Analytics or Graduate Certificate of Data Engineering or Graduate Diploma of Applied Data Analytics or Master of Applied Data Analytics.\nYou are not able to enrol in this course if you have successfully completed\nCOMP1730\nor\nCOMP6730\nor\nCOMP1040\n."
+        },
+        {
+            "courseCode": "COMP2620",
+            "requirements": "To enrol in this course you must have completed 12 units of COMP or MATH courses. You are not able to enrol in this course if you have previously completed\nPHIL2080\nor\nCOMP6262\n."
+        },
+        {
+            "courseCode": "COMP6262",
+            "requirements": "You are not able to enrol in this course if you have previously completed\nPHIL2080\nor\nCOMP2620\n."
+        },
+        {
+            "courseCode": "COMP3120",
+            "requirements": "To enrol in this course you must have completed\nCOMP2130\nor\nCOMP2120\nor\nINFS2024\nor\nCOMP3110\n. This course is incompatible with\nCOMP8110\n."
+        },
+        {
+            "courseCode": "COMP8110",
+            "requirements": "To enrol in this course you must be:\n\nstudying a Master of Computing AND \nhave completed\nCOMP6700\nOR\nCOMP6710\nOR\nCOMP1110\nOR  be studying a Master of Computing (Advanced).\n\nYou cannot enrol in this course if you've completed\nCOMP3120\n."
+        },
+        {
+            "courseCode": "COMP4130",
+            "requirements": "To enrol in this course you must have successfully completed\nCOMP1600\n, and\nCOMP3120\nor\nENGN3300\n, and\nCOMP3100\nor\nCOMP3500\n."
+        },
+        {
+            "courseCode": "MATH8705",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH8705"
+        },
+        {
+            "courseCode": "MATH1113",
+            "requirements": "You are not able to enrol in this course if you have previously completed\nMATH1013\nor\nMATH1115\n."
+        },
+        {
+            "courseCode": "MATH8702",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH8702"
+        },
+        {
+            "courseCode": "MATH8701",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH8701"
+        },
+        {
+            "courseCode": "MATH1013",
+            "requirements": "You are not able to enrol in this course if you have previously completed\nMATH1113\nor\nMATH1115\n."
+        },
+        {
+            "courseCode": "MATH1014",
+            "requirements": "To enrol in this course you must have completed\nMATH1013\nor\nMATH1115\nor\nMATH1113\n.  You are not able to enrol in this course if you have previously completed\nMATH1116\n."
+        },
+        {
+            "courseCode": "MATH6112",
+            "requirements": "Incompatible with\nMATH3512"
+        },
+        {
+            "courseCode": "MATH3512",
+            "requirements": "To enrol in this course you must have successfully completed either\nMATH2305\n, MATH 2405,\nMATH2320\n,\nMATH3116\nor\nMATH3511\nwith a mark of 60 and above. Incompatible with\nMATH6112\n."
+        },
+        {
+            "courseCode": "COMP3704",
+            "requirements": "To enrol in this course, you must have completed:\nCOMP2700\nAND\nCOMP3310\nor\nENGN3539\n."
+        },
+        {
+            "courseCode": "COMP2410",
+            "requirements": "To enrol in this course you must have completed at least 48 units of university courses, of which 6 units were 1000 level COMP courses.\nIncompatible with\nCOMP6340\n."
+        },
+        {
+            "courseCode": "COMP6340",
+            "requirements": "You are not able to enrol in this course if you have previously completed\nCOMP2410\n.\nStudents enrolled in the Master of Cyber Security, Strategy & Risk Management must contact CECS Student Services to request a permission code for the course."
+        },
+        {
+            "courseCode": "COMP8420",
+            "requirements": "To enrol in this course you must:\n\nhave completed\nCOMP6670\nor\nCOMP3670\nOR\nbe enrolled in the Master of Applied Data Analytics and \nhave completed 6 units of (\nCOMP6710\nor\nCOMP6730\nor\nCOMP7230\n).\n\nIncompatible with\nCOMP4660\nand\nCOMP8920"
+        },
+        {
+            "courseCode": "COMP8920",
+            "requirements": "To enrol in this course you must have either completed\nCOMP6670\nOR (be enrolled in the Master of Applied Data Analytics and have completed 6 units of either\nCOMP6710\nor\nCOMP6730\nor\nCOMP7230\n)."
+        },
+        {
+            "courseCode": "COMP4660",
+            "requirements": "To enrol in this course you must have completed 12 units of 3000 level COMP courses.\nIncompatible with\nCOMP8420\nand\nCOMP8920\n."
+        },
+        {
+            "courseCode": "MATH3301",
+            "requirements": "To enrol in this course you must have successfully completed either:\n    *\nMATH1014\nwith a mark of at least 80, or\n    *\nMATH1116\nwith a mark of at least 60, or\n    At least 1x 2000-level MATH course with a mark of at least 60, or\n    At least 1x 3000-level MATH course.\n*In addition to this 1000 level MATH course, students must also complete 24 units of MATH courses, or 72 units of tertiary courses.\n\nYou are not able to enrol in this course if you have previously completed\nMATH6114\n."
+        },
+        {
+            "courseCode": "MATH6114",
+            "requirements": "You are not able to enrol in this course if you have completed\nMATH3301"
+        },
+        {
+            "courseCode": "MATH3514",
+            "requirements": "To enrol in this course you must have successfully completed either\nMATH2305\n, MATH 2405,\nMATH2320\n,\nMATH3116\nor\nMATH3511\nwith a mark of 60 and above. You are not able to enrol in this course if you have completed\nMATH6119\n."
+        },
+        {
+            "courseCode": "MATH6119",
+            "requirements": "You are not able to enrol in this course if you have completed\nMATH3514"
+        },
+        {
+            "courseCode": "COMP6330",
+            "requirements": "To enrol in this course you must be studying a Master of Computing or be enrolled in or completed\nCOMP6300\n. Incompatible with\nCOMP3300\n."
+        },
+        {
+            "courseCode": "COMP3300",
+            "requirements": "To enrol in this course you must have completed:\nCOMP2300\nor\nENGN2219\nAND\nCOMP2310\nAND\nCOMP1600\nor\nCOMP2600\nor 6 units of 2000 MATH courses.\n\nIncompatible with\nCOMP6330\n."
+        },
+        {
+            "courseCode": "COMP8691",
+            "requirements": "To enrol in this course you must have completed\nCOMP6320\nor\nCOMP3620\n.\n\nIncompatible with\nCOMP4690\n."
+        },
+        {
+            "courseCode": "COMP4691",
+            "requirements": "To enrol in this course you must have completed\nCOMP3620\nand have completed\nMATH1013\nor\nMATH1115\n. Incompatible with\nCOMP8691\n."
+        },
+        {
+            "courseCode": "MATH6405",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH6405"
+        },
+        {
+            "courseCode": "COMP4630",
+            "requirements": "To enrol in this course you must have successfully completed\nCOMP2620\nor\nMATH3343\nor\nMATH4343\n."
+        },
+        {
+            "courseCode": "COMP8300",
+            "requirements": "To enrol in this course you must be studying:\n\nGraduate Diploma of Computing OR\nMaster of Computing OR\nMaster of Computing (Advanced) OR\nMaster of Machine Learning and Computer Vision OR\nMaster of Engineering in Electrical Engineering.\n\nIncompatible with\nCOMP4300\n."
+        },
+        {
+            "courseCode": "COMP4300",
+            "requirements": "To enrol in this course you must have completed\nCOMP2310\n.\nIncompatible with\nCOMP8300\n."
+        },
+        {
+            "courseCode": "MATH6406",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH6406"
+        },
+        {
+            "courseCode": "MATH1042",
+            "requirements": "This course is incompatible with\nPHIL2042\n."
+        },
+        {
+            "courseCode": "COMP6361",
+            "requirements": ".To enrol in this course you must have successfully completed\nCOMP6710\nand\nCOMP6260\n; or be enrolled in Master of Computing (Advanced)"
+        },
+        {
+            "courseCode": "COMP3610",
+            "requirements": "To enrol in this course you must have successfully completed\nCOMP2100\nand\nCOMP1600\n. \nIncompatible with\nCOMP6361\n."
+        },
+        {
+            "courseCode": "MATH3029",
+            "requirements": "To enrol in this course you must have successfully completed\nSTAT2001\nor\nMATH2320\nor\nMATH3116\nor\nSTAT2005\n. Incompatible with\nMATH6109\n."
+        },
+        {
+            "courseCode": "MATH6109",
+            "requirements": "You are not able to enrol in this course if you have completed\nMATH3029\n."
+        },
+        {
+            "courseCode": "COMP6250",
+            "requirements": "To enrol in this course you must be studying the Master of Computing or Master of Machine Learning and Computer Vision programs."
+        },
+        {
+            "courseCode": "COMP8260",
+            "requirements": "To enrol in this course you must be enrolled in the Graduate Diploma of Computing or Master of Computing or Master of Computing (Advanced) or Master of Machine Learning and Computer Vision."
+        },
+        {
+            "courseCode": "COMP1100",
+            "requirements": "Incompatible with\nCOMP1130\n."
+        },
+        {
+            "courseCode": "COMP1130",
+            "requirements": "Incompatible with\nCOMP1100\n."
+        },
+        {
+            "courseCode": "COMP6730",
+            "requirements": "You are not able to enrol in this course if you have previously completed\nCOMP1730\n.  Incompatible with\nCOMP7230\nand\nCOMP1040\n."
+        },
+        {
+            "courseCode": "COMP1730",
+            "requirements": "You are not able to enrol in this course if you have successfully completed\nCOMP6730"
+        },
+        {
+            "courseCode": "COMP6240",
+            "requirements": "You are not able to enrol in this course if you have successfully completed\nCOMP2400\n. Incompatible with\nCOMP7240\n."
+        },
+        {
+            "courseCode": "COMP2400",
+            "requirements": "You are not able to enrol in this course if you have successfully completed\nCOMP6240\n. Incompatible with\nCOMP7240\n."
+        },
+        {
+            "courseCode": "MATH6111",
+            "requirements": "Incompatible with\nMATH3511"
+        },
+        {
+            "courseCode": "MATH3511",
+            "requirements": "To enrol in this course you must have successfully completed one of\nMATH1116\nor\nMATH2305\nor\nMATH2405\nor\nMATH2320\n. Incompatible with\nMATH6111\n."
+        },
+        {
+            "courseCode": "MATH6103",
+            "requirements": "Incompatible with\nMATH3501"
+        },
+        {
+            "courseCode": "MATH3501",
+            "requirements": "To enrol in this course you must have successfully completed either\nMATH2305\n, MATH 2405 or 12 units of 2000 level Mathematics courses with a mark of 60 or above. Incompatible with\nMATH6103\n."
+        },
+        {
+            "courseCode": "COMP2100",
+            "requirements": "To enrol in this course you must have successfully completed:\nCOMP1110\nor\nCOMP1140\nAND 6 units of 1000 level MATH.\nYou are not able to enrol in this course if you have completed\nCOMP2500\nor\nCOMP6442\n."
+        },
+        {
+            "courseCode": "COMP6442",
+            "requirements": "To enrol in this course you must have either:\n\ncompleted\nCOMP6700\nOR\nCOMP6710\nOR\nCOMP1110\nOR\nCOMP1140\n; AND\nhave completed or currently be enrolled in\nMATH6005\nOR\nCOMP6260\nOR\nMATH1005\nOR\nCOMP1600\n;\nOR\nbe enrolled in Master of Computing (Advanced).\n\nIncompatible with\nCOMP2100\n."
+        },
+        {
+            "courseCode": "COMP6120",
+            "requirements": "To enrol in this course you must have successfully completed or be currently studying\nCOMP6442\nor\nCOMP2100\n.\n\nIncompatible with\nCOMP2120\n."
+        },
+        {
+            "courseCode": "COMP2120",
+            "requirements": "To enrol in this course you must have successfully completed or be currently studying\nCOMP2100\n. Incompatible with\nCOMP2130\n,\nCOMP6120\nand\nCOMP6311\n."
+        },
+        {
+            "courseCode": "COMP3500",
+            "requirements": "To enrol in this course you must meet the eligibility criteria, which includes membership of a student project group before the end of week 1, where the project has been approved by the convener. \n\nTo enrol in this course you must have completed:\nCOMP2500\nor\nCOMP2100\nAND\nCOMP2120\nor\nCOMP2130\nAND\n12 units of 2000 level COMP courses.\n\nYou are not able to enrol in this course if you have previously completed\nCOMP3100\nor if you have previously or are currently enrolled in\nCOMP3820\n."
+        },
+        {
+            "courseCode": "COMP4500",
+            "requirements": "To enrol in this course you must meet the eligibility criteria, which includes membership of a student project group before the end of week 1, where the project has been approved by the convener. \n\nTo enrol in this course you must have completed:\nCOMP2120\nAND\nCOMP3120\nAND\nCOMP3500\n.\n\nIncompatible with\nCOMP4540\nand\nCOMP4810\nand\nCOMP4550\n."
+        },
+        {
+            "courseCode": "COMP3703",
+            "requirements": "To enrol in this course you must have completed:\nCOMP2300\nOR\nENGN2219\nAND\nCOMP2700\n.\n\nIt is incompatible with\nCOMP2710\nSoftware Security."
+        },
+        {
+            "courseCode": "COMP4350",
+            "requirements": "To enrol in this course, you must have either:\ncompleted 12 units of 2000-level COMP courses\nor\nhave completed 12 units of 2000-level MUSI, DESN or ARTV courses and have completed\nCOMP1720\nIncompatible with\nCOMP8350\n."
+        },
+        {
+            "courseCode": "COMP8350",
+            "requirements": "To enrol in this course you must have completed\nCOMP6710\nor\nCOMP6720\n. \nIncompatible with\nCOMP4350\n."
+        },
+        {
+            "courseCode": "MATH6209",
+            "requirements": "Incompatible with\nMATH3349"
+        },
+        {
+            "courseCode": "COMP2710",
+            "requirements": "To enrol in this course you must completed:\nCOMP1100\nOR\nCOMP1130\nOR\nCOMP1730"
+        },
+        {
+            "courseCode": "COMP6470",
+            "requirements": "ERROR: CANNOT FETCH FOR COMP6470"
+        },
+        {
+            "courseCode": "MATH3349",
+            "requirements": "Incompatible with\nMATH6209"
+        },
+        {
+            "courseCode": "MATH4349",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH4349"
+        },
+        {
+            "courseCode": "COMP8600",
+            "requirements": "To enrol in this course you must have completed\nCOMP6670\nor\nCOMP3670\nOR\nCOMP6710\nor\nCOMP6730\nor\nCOMP7230\nor\nCOMP1110\nor\nCOMP1730\nAND\nCOMP8410\nor\nCOMP8910\nor\nCOMP3425\nAND\nSTAT6039\n.\n\nIncompatible with\nCOMP4670\nand\nCOMP8960\n."
+        },
+        {
+            "courseCode": "COMP4670",
+            "requirements": "To enrol in this course you must have completed:\nCOMP3670\nOR\nCOMP1110\nOR\nCOMP1140\nAND\nMATH1014\nOR\nMATH1115\nOR\nMATH1116\nIncompatible with\nCOMP8600\nand\nCOMP8960\n."
+        },
+        {
+            "courseCode": "COMP8960",
+            "requirements": "To enrol in this course you must have completed\nCOMP6670\nOR (6 units of (either\nCOMP6710\nor\nCOMP6730\nor\nCOMP7230\n) and\nCOMP8410\nand\nSTAT6039\n) AND\nbe enrolled in the Master of Applied Data Analytics.\nIncompatible with\nCOMP4670\nand\nCOMP8600\n."
+        },
+        {
+            "courseCode": "MATH3015",
+            "requirements": "To enrol in this course you must have successfully completed\nMATH3029\nor\nMATH3320\n. You are not able to enrol in this course if you have completed\nMATH6115\n."
+        },
+        {
+            "courseCode": "MATH6115",
+            "requirements": "You are not able to enrol in this course if you have completed\nMATH3015"
+        },
+        {
+            "courseCode": "COMP1110",
+            "requirements": "To enrol in this course you must have completed\nCOMP1100\nor\nCOMP1130\nor\nCOMP1730\n. You are not able to enrol in this course if you have completed\nCOMP1140\nor\nCOMP1510\nor\nCOMP2140\nor\nCOMP6710\n."
+        },
+        {
+            "courseCode": "COMP6710",
+            "requirements": "You are not able to enrol in this course if you have previously completed\nCOMP6700\nor\nCOMP1110\nor if you are enrolled in the Master of Computing (Advanced)."
+        },
+        {
+            "courseCode": "COMP1140",
+            "requirements": "To enrol in this course you must have successfully completed\nCOMP1130\n. \nYou are not able to enrol in this course if you have previously completed\nCOMP1110\nor\nCOMP1510\n."
+        },
+        {
+            "courseCode": "COMP2560",
+            "requirements": "To enrol in this course you must  be studying Bachelor of Advanced Computing(R&D)  and have completed\nCOMP2550\n. Honours students in the second semesters of their Honours thesis can be admitted on request."
+        },
+        {
+            "courseCode": "COMP6310",
+            "requirements": "To enrol in this course you must have completed (or have an exemption for):\nCOMP6300\nAND\nCOMP6710\nor\nCOMP1110\n.\n\nYou will not be able to enrol in the course if you have completed\nCOMP2310\n."
+        },
+        {
+            "courseCode": "COMP2310",
+            "requirements": "To enrol in this course you must have completed:\nCOMP1110\nor\nCOMP1140\nAND\nCOMP2300\nor\nENGN2219\n.\n\nIncompatible with\nCOMP6310\n."
+        },
+        {
+            "courseCode": "COMP6363",
+            "requirements": "To enrol in this course you must be studying Master of Computing OR Master of Computing (Advanced).\n\nIncompatible with\nCOMP3630\n."
+        },
+        {
+            "courseCode": "COMP3630",
+            "requirements": "To enrol in this course you must have completed (\nCOMP1110\nor\nCOMP1140\n) and (\nCOMP1600\nor\nCOMP2600\n). Incompatible with\nCOMP6363\n."
+        },
+        {
+            "courseCode": "MATH8202",
+            "requirements": "To enrol in this course you need to be enroled in the Master of Science in Mathematical Sciences, Master of Mathematical Sciences (Advanced), the Master of Science in Astronomy and Astrophysics, or the Master of Science in Astronomy and Astrophysics (Advanced) and must have completed either\nMATH3320\nwith a mark of 60 or above or\nMATH6212\nwith a mark of 60 or above (or their equivalent).\n\nIncompatible with\nMATH6202\nand\nMATH4202\n."
+        },
+        {
+            "courseCode": "MATH4202",
+            "requirements": "To enrol in this course you need to be undertaking the MATH-HSPC Honours specialisation.\nTo enrol in this course you must have successfully completed\nMATH3320\nwith a mark of 60 or above.\nIncompatible with\nMATH6202\nand\nMATH8202\n."
+        },
+        {
+            "courseCode": "MATH4005",
+            "requirements": "ERROR: CANNOT FETCH FOR MATH4005"
+        },
+        {
+            "courseCode": "MATH8201",
+            "requirements": "To enrol in this course you need to be active in one of the following programs: the Master of Science in Mathematical Sciences, the Master of Mathematical Sciences (Advanced), the Master of Science in Astronomy and Astrophysics, or the Master of Science in Astronomy and Astrophysics (Advanced).\n\nIncompatible with\nMATH6201\nand\nMATH4201\n."
+        },
+        {
+            "courseCode": "MATH4201",
+            "requirements": "To enrol in this course you need to be undertaking the MATH-HSPC Honours specialisation.\nIncompatible with\nMATH6201\nand\nMATH8201\n."
+        },
+        {
+            "courseCode": "COMP3710",
+            "requirements": "ERROR: CANNOT FETCH FOR COMP3710"
+        },
+        {
+            "courseCode": "MATH6211",
+            "requirements": "To enrol in this course you must have obtained a mark of 60 or above in\nMATH6406\n(Applied Mathematics II) and in at least one of\nMATH6118\n(Advanced Algebra 1) and\nMATH6110\n(Advanced Analysis 1).\nIncompatible with\nMATH3351\n."
+        },
+        {
+            "courseCode": "COMP1710",
+            "requirements": "Incompatible with\nCOMP6780"
+        },
+        {
+            "courseCode": "COMP6780",
+            "requirements": "Incompatible with\nCOMP1710"
+        }
+    ]
+}
