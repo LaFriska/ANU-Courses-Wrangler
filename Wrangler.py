@@ -34,7 +34,7 @@ def fetchRequirementsAndIncompatibility(courseCode):
     return program_requirements.get_text(strip=True, separator="\n")
 
 
-def serialiseToJSON(records):
+def serialiseToJSONTemplate(records):
     courses = Courses()
     for record in records:
         if record[4].text is None:
@@ -55,4 +55,5 @@ def serialiseToJSON(records):
 
 
 courses = getSpecificCourses(["COMP", "MATH"], None)
-print(serialiseToJSON(courses))
+print(serialiseToJSONTemplate(courses))
+print(len(courses))
