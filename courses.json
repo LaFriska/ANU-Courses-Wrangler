@@ -1,0 +1,2423 @@
+{
+    "courseArray": [
+        {
+            "courseCode": "MATH2322",
+            "career": "Undergraduate",
+            "title": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3345",
+            "career": "Undergraduate",
+            "title": "Advanced Algebra 2: Field extensions and Galois Theory",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4600",
+            "career": "Undergraduate",
+            "title": "Advanced Algorithms",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8460",
+            "career": "Postgraduate",
+            "title": "Advanced Algorithms",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH2320",
+            "career": "Undergraduate",
+            "title": "Advanced Analysis 1: Metric Spaces and Applications",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3320",
+            "career": "Undergraduate",
+            "title": "Advanced Analysis 2: Lebesgue Integration and Hilbert Spaces",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3228",
+            "career": "Undergraduate",
+            "title": "Advanced Complex Analysis",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4820",
+            "career": "Undergraduate",
+            "title": "Advanced Computing Internship",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 12,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4560",
+            "career": "Undergraduate",
+            "title": "Advanced Computing Project",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8800",
+            "career": "Postgraduate",
+            "title": "Advanced Computing Research Project",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 12,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8715",
+            "career": "Postgraduate",
+            "title": "Advanced Computing Team Project",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3342",
+            "career": "Undergraduate",
+            "title": "Advanced Differential Geometry",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6214",
+            "career": "Postgraduate",
+            "title": "Advanced Functional Analysis, Spectral theory and Applications",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3325",
+            "career": "Undergraduate",
+            "title": "Advanced Functional Analysis, Spectral theory and Applications",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3353",
+            "career": "Undergraduate",
+            "title": "Advanced Mathematical Bioinformatics",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6208",
+            "career": "Postgraduate",
+            "title": "Advanced Mathematical Bioinformatics",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH1115",
+            "career": "Undergraduate",
+            "title": "Advanced Mathematics and Applications 1",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH1116",
+            "career": "Undergraduate",
+            "title": "Advanced Mathematics and Applications 2",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3354",
+            "career": "Undergraduate",
+            "title": "Advanced Topics in Algebra",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6216",
+            "career": "Postgraduate",
+            "title": "Advanced Topics in Algebra",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4620",
+            "career": "Undergraduate",
+            "title": "Advanced Topics in Artificial Intelligence",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8620",
+            "career": "Postgraduate",
+            "title": "Advanced Topics in Artificial intelligence",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4045",
+            "career": "Undergraduate",
+            "title": "Advanced Topics in Computer Systems",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8045",
+            "career": "Postgraduate",
+            "title": "Advanced Topics in Computer Systems & Architecture",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8539",
+            "career": "Postgraduate",
+            "title": "Advanced Topics in Computer Vision",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8536",
+            "career": "Postgraduate",
+            "title": "Advanced Topics in Deep Learning for Computer Vision",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8011",
+            "career": "Postgraduate",
+            "title": "Advanced Topics in Formal Methods and Programming Languages",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4011",
+            "career": "Undergraduate",
+            "title": "Advanced Topics in Formal Methods and Programming Languages",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8670",
+            "career": "Postgraduate",
+            "title": "Advanced Topics in Logic and Computation",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8650",
+            "career": "Postgraduate",
+            "title": "Advanced Topics in Machine Learning",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4680",
+            "career": "Undergraduate",
+            "title": "Advanced Topics in Machine Learning",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3351",
+            "career": "Undergraduate",
+            "title": "Advanced Topics in Mathematical Physics",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6118",
+            "career": "Postgraduate",
+            "title": "Algebra 1: Groups, Rings and Advanced Linear Algebra",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6215",
+            "career": "Postgraduate",
+            "title": "Algebra 2: Field extensions and Galois Theory",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH1003",
+            "career": "Undergraduate",
+            "title": "Algebra and Calculus Methods",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH8204",
+            "career": "Postgraduate",
+            "title": "Algebraic Topology",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH4204",
+            "career": "Undergraduate",
+            "title": "Algebraic Topology Honours",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3600",
+            "career": "Undergraduate",
+            "title": "Algorithms",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6466",
+            "career": "Postgraduate",
+            "title": "Algorithms",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6110",
+            "career": "Postgraduate",
+            "title": "Analysis 1: Metric spaces and Applications",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6212",
+            "career": "Postgraduate",
+            "title": "Analysis 2: Lebesgue Integration and Hilbert Spaces",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH2305",
+            "career": "Undergraduate",
+            "title": "Applied Mathematics I",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH2306",
+            "career": "Undergraduate",
+            "title": "Applied Mathematics II",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP1720",
+            "career": "Undergraduate",
+            "title": "Art and Interaction Computing",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6720",
+            "career": "Postgraduate",
+            "title": "Art and Interaction Computing",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3620",
+            "career": "Undergraduate",
+            "title": "Artificial Intelligence",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6320",
+            "career": "Postgraduate",
+            "title": "Artificial Intelligence",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH2307",
+            "career": "Undergraduate",
+            "title": "Bioinformatics and Biological Modelling",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6100",
+            "career": "Postgraduate",
+            "title": "Bioinformatics and Biological Modelling",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4712",
+            "career": "Undergraduate",
+            "title": "Compiler Construction",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8712",
+            "career": "Postgraduate",
+            "title": "Compiler Construction",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6213",
+            "career": "Postgraduate",
+            "title": "Complex Analysis",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4880",
+            "career": "Undergraduate",
+            "title": "Computational Methods for Network Science",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8880",
+            "career": "Postgraduate",
+            "title": "Computational Methods for Network Science",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8980",
+            "career": "Postgraduate",
+            "title": "Computational Methods for Network Science",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8610",
+            "career": "Postgraduate",
+            "title": "Computer Graphics",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4610",
+            "career": "Undergraduate",
+            "title": "Computer Graphics",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6331",
+            "career": "Postgraduate",
+            "title": "Computer Networks",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3310",
+            "career": "Undergraduate",
+            "title": "Computer Networks",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6300",
+            "career": "Postgraduate",
+            "title": "Computer Organisation and Program Execution",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2300",
+            "career": "Undergraduate",
+            "title": "Computer Organisation and Program Execution",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4006",
+            "career": "Undergraduate",
+            "title": "Computer Science Honours",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 24,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4005F",
+            "career": "Undergraduate",
+            "title": "Computer Science IV Honours",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 12,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4005P",
+            "career": "Undergraduate",
+            "title": "Computer Science IV Honours",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 12,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6719",
+            "career": "Postgraduate",
+            "title": "Computer Systems & Organisation",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6528",
+            "career": "Postgraduate",
+            "title": "Computer Vision",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4528",
+            "career": "Undergraduate",
+            "title": "Computer Vision",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3820",
+            "career": "Undergraduate",
+            "title": "Computing Internship",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 12,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8830",
+            "career": "Postgraduate",
+            "title": "Computing Internship",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 12,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2550",
+            "career": "Undergraduate",
+            "title": "Computing R&D Methods",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4450",
+            "career": "Undergraduate",
+            "title": "Computing Research Methods",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6445",
+            "career": "Postgraduate",
+            "title": "Computing Research Methods",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4550",
+            "career": "Undergraduate",
+            "title": "Computing Research Project",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 12,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3770",
+            "career": "Undergraduate",
+            "title": "Computing Research Project (R&D)",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2700",
+            "career": "Undergraduate",
+            "title": "Cyber Security Foundations",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3425",
+            "career": "Undergraduate",
+            "title": "Data Mining",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8410",
+            "career": "Postgraduate",
+            "title": "Data Mining",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8910",
+            "career": "Postgraduate",
+            "title": "Data Mining",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8430",
+            "career": "Postgraduate",
+            "title": "Data Wrangling",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3430",
+            "career": "Undergraduate",
+            "title": "Data Wrangling",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8930",
+            "career": "Postgraduate",
+            "title": "Data Wrangling",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6205",
+            "career": "Postgraduate",
+            "title": "Differential Geometry",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6005",
+            "career": "Postgraduate",
+            "title": "Discrete Mathematical Models",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH1005",
+            "career": "Undergraduate",
+            "title": "Discrete Mathematical Models",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4650",
+            "career": "Undergraduate",
+            "title": "Document Analysis",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6490",
+            "career": "Postgraduate",
+            "title": "Document Analysis",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6990",
+            "career": "Postgraduate",
+            "title": "Document Analysis",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8535",
+            "career": "Postgraduate",
+            "title": "Engineering Data Analytics",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3133",
+            "career": "Undergraduate",
+            "title": "Environmental Mathematics",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6102",
+            "career": "Postgraduate",
+            "title": "Environmental Modelling and Integrated Assessment",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8820",
+            "career": "Postgraduate",
+            "title": "Exchange Program for Graduate Students in Computer Science",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP5920",
+            "career": "Undergraduate",
+            "title": "Exchange Program in Computer Science",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP1600",
+            "career": "Undergraduate",
+            "title": "Foundations of Computing",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6260",
+            "career": "Postgraduate",
+            "title": "Foundations of Computing",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH8343",
+            "career": "Postgraduate",
+            "title": "Foundations of Mathematics",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH4343",
+            "career": "Undergraduate",
+            "title": "Foundations of Mathematics",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3062",
+            "career": "Undergraduate",
+            "title": "Fractal Geometry and Chaotic Dynamics",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6116",
+            "career": "Postgraduate",
+            "title": "Fractal Geometry and Chaotic Dynamics",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6540",
+            "career": "Postgraduate",
+            "title": "Game Development",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3540",
+            "career": "Undergraduate",
+            "title": "Game Development",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH2301",
+            "career": "Undergraduate",
+            "title": "Games, Graphs and Machines",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3320",
+            "career": "Undergraduate",
+            "title": "High Performance Scientific Computation",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6464",
+            "career": "Postgraduate",
+            "title": "High Performance Scientific Computing",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6390",
+            "career": "Postgraduate",
+            "title": "Human-Computer Interaction",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3900",
+            "career": "Undergraduate",
+            "title": "Human-Computer Interaction",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8755",
+            "career": "Postgraduate",
+            "title": "Individual Computing Project",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3740",
+            "career": "Undergraduate",
+            "title": "Individual Project",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4800",
+            "career": "Undergraduate",
+            "title": "Industrial Experience",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 0,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6261",
+            "career": "Postgraduate",
+            "title": "Information Theory",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2610",
+            "career": "Undergraduate",
+            "title": "Information Theory",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6420",
+            "career": "Postgraduate",
+            "title": "Introduction to Data Management, Analysis and Security",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2420",
+            "career": "Undergraduate",
+            "title": "Introduction to Data Management, Analysis and Security",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP7240",
+            "career": "Postgraduate",
+            "title": "Introduction to Database Concepts",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6670",
+            "career": "Postgraduate",
+            "title": "Introduction to Machine Learning",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3670",
+            "career": "Undergraduate",
+            "title": "Introduction to Machine Learning",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6222",
+            "career": "Postgraduate",
+            "title": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH2222",
+            "career": "Undergraduate",
+            "title": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP7230",
+            "career": "Postgraduate",
+            "title": "Introduction to Programming for Data Scientists",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2620",
+            "career": "Undergraduate",
+            "title": "Logic",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6262",
+            "career": "Postgraduate",
+            "title": "Logic",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3120",
+            "career": "Undergraduate",
+            "title": "Managing Software Development",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8110",
+            "career": "Postgraduate",
+            "title": "Managing Software Projects in a System Context",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4130",
+            "career": "Undergraduate",
+            "title": "Managing Software Quality and Process",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH8705",
+            "career": "Postgraduate",
+            "title": "Masters Special Topics in Mathematics",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH1113",
+            "career": "Undergraduate",
+            "title": "Mathematical Foundations for Actuarial Studies",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH8702",
+            "career": "Postgraduate",
+            "title": "Mathematics Reading Course",
+            "semesters": [
+                "Summer Session",
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH8701",
+            "career": "Postgraduate",
+            "title": "Mathematics Research Project",
+            "semesters": [
+                "Summer Session",
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH1013",
+            "career": "Undergraduate",
+            "title": "Mathematics and Applications 1",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH1014",
+            "career": "Undergraduate",
+            "title": "Mathematics and Applications 2",
+            "semesters": [
+                "First Semester",
+                "Second Semester",
+                "Spring Session"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6112",
+            "career": "Postgraduate",
+            "title": "Matrix Computations",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3512",
+            "career": "Undergraduate",
+            "title": "Matrix Computations",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3704",
+            "career": "Undergraduate",
+            "title": "Network Security",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2410",
+            "career": "Undergraduate",
+            "title": "Networked Information Systems",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6340",
+            "career": "Postgraduate",
+            "title": "Networked Information Systems",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8420",
+            "career": "Postgraduate",
+            "title": "Neural Networks, Deep Learning and Bio-inspired Computing",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8920",
+            "career": "Postgraduate",
+            "title": "Neural Networks, Deep Learning and Bio-inspired Computing",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4660",
+            "career": "Undergraduate",
+            "title": "Neural Networks, Deep Learning and Bio-inspired Computing",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3301",
+            "career": "Undergraduate",
+            "title": "Number Theory and Cryptography",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6114",
+            "career": "Postgraduate",
+            "title": "Number Theory and Cryptography",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3514",
+            "career": "Undergraduate",
+            "title": "Numerical Optimisation",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6119",
+            "career": "Postgraduate",
+            "title": "Numerical Optimisation",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6330",
+            "career": "Postgraduate",
+            "title": "Operating Systems Implementation",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3300",
+            "career": "Undergraduate",
+            "title": "Operating Systems Implementation",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8691",
+            "career": "Postgraduate",
+            "title": "Optimisation",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4691",
+            "career": "Undergraduate",
+            "title": "Optimisation",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6405",
+            "career": "Postgraduate",
+            "title": "Ordinary Differential Equations and Advanced Vector Calculus",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4630",
+            "career": "Undergraduate",
+            "title": "Overview of Logic and Computation",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8300",
+            "career": "Postgraduate",
+            "title": "Parallel Systems",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4300",
+            "career": "Undergraduate",
+            "title": "Parallel Systems",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6406",
+            "career": "Postgraduate",
+            "title": "Partial Differential Equations, Fourier Analysis and Complex Analysis",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH1042",
+            "career": "Undergraduate",
+            "title": "Philosophy of the Cosmos",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6361",
+            "career": "Postgraduate",
+            "title": "Principles of Programming Languages",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3610",
+            "career": "Undergraduate",
+            "title": "Principles of Programming Languages",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3029",
+            "career": "Undergraduate",
+            "title": "Probability Theory with Applications",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6109",
+            "career": "Postgraduate",
+            "title": "Probability Theory with Applications",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6250",
+            "career": "Postgraduate",
+            "title": "Professional Practice: Holistic Thinking and Communication",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8260",
+            "career": "Postgraduate",
+            "title": "Professional Practice: Responsible Innovation and Leadership",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP1100",
+            "career": "Undergraduate",
+            "title": "Programming as Problem Solving",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP1130",
+            "career": "Undergraduate",
+            "title": "Programming as Problem Solving (Advanced)",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6730",
+            "career": "Postgraduate",
+            "title": "Programming for Scientists",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP1730",
+            "career": "Undergraduate",
+            "title": "Programming for Scientists",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6240",
+            "career": "Postgraduate",
+            "title": "Relational Databases",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2400",
+            "career": "Undergraduate",
+            "title": "Relational Databases",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6111",
+            "career": "Postgraduate",
+            "title": "Scientific Computing",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3511",
+            "career": "Undergraduate",
+            "title": "Scientific Computing",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6103",
+            "career": "Postgraduate",
+            "title": "Scientific and Industrial Modelling",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3501",
+            "career": "Undergraduate",
+            "title": "Scientific and Industrial Modelling",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2100",
+            "career": "Undergraduate",
+            "title": "Software Construction",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6442",
+            "career": "Postgraduate",
+            "title": "Software Construction",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6120",
+            "career": "Postgraduate",
+            "title": "Software Engineering",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2120",
+            "career": "Undergraduate",
+            "title": "Software Engineering",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3500",
+            "career": "Undergraduate",
+            "title": "Software Engineering Project",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4500",
+            "career": "Undergraduate",
+            "title": "Software Engineering Team Project",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3703",
+            "career": "Undergraduate",
+            "title": "Software Security",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4350",
+            "career": "Undergraduate",
+            "title": "Sound and Music Computing",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8350",
+            "career": "Postgraduate",
+            "title": "Sound and Music Computing",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6209",
+            "career": "Postgraduate",
+            "title": "Special Topic in Mathematical Sciences",
+            "semesters": [
+                "Summer Session",
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2710",
+            "career": "Undergraduate",
+            "title": "Special Topics in Computer Science",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6470",
+            "career": "Postgraduate",
+            "title": "Special Topics in Computing",
+            "semesters": [
+                "Summer Session"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3349",
+            "career": "Undergraduate",
+            "title": "Special Topics in Mathematics",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH4349",
+            "career": "Undergraduate",
+            "title": "Special Topics in Mathematics",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8600",
+            "career": "Postgraduate",
+            "title": "Statistical Machine Learning",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP4670",
+            "career": "Undergraduate",
+            "title": "Statistical Machine Learning",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP8960",
+            "career": "Postgraduate",
+            "title": "Statistical Machine Learning",
+            "semesters": [],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH3015",
+            "career": "Undergraduate",
+            "title": "Stochastic Analysis with Financial Applications",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6115",
+            "career": "Postgraduate",
+            "title": "Stochastic Analysis with Financial Applications",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP1110",
+            "career": "Undergraduate",
+            "title": "Structured Programming",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6710",
+            "career": "Postgraduate",
+            "title": "Structured Programming",
+            "semesters": [
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP1140",
+            "career": "Undergraduate",
+            "title": "Structured Programming (Advanced)",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2560",
+            "career": "Undergraduate",
+            "title": "Studies in Advanced Computing R&D",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6310",
+            "career": "Postgraduate",
+            "title": "Systems, Networks and Concurrency",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP2310",
+            "career": "Undergraduate",
+            "title": "Systems, Networks, and Concurrency",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6363",
+            "career": "Postgraduate",
+            "title": "Theory of Computation",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3630",
+            "career": "Undergraduate",
+            "title": "Theory of Computation",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH8202",
+            "career": "Postgraduate",
+            "title": "Theory of Partial Differential Equations",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH4202",
+            "career": "Undergraduate",
+            "title": "Theory of Partial Differential Equations Honours",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH4005",
+            "career": "Undergraduate",
+            "title": "Thesis and Presentations in Mathematics",
+            "semesters": [
+                "Summer Session",
+                "First Semester",
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH8201",
+            "career": "Postgraduate",
+            "title": "Topics in Computational Maths",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH4201",
+            "career": "Undergraduate",
+            "title": "Topics in Computational Maths Honours",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP3710",
+            "career": "Undergraduate",
+            "title": "Topics in Computer Science",
+            "semesters": [
+                "Summer Session"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "MATH6211",
+            "career": "Postgraduate",
+            "title": "Topics in Mathematical Physics",
+            "semesters": [
+                "Second Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP1710",
+            "career": "Undergraduate",
+            "title": "Web Development and Design",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        },
+        {
+            "courseCode": "COMP6780",
+            "career": "Postgraduate",
+            "title": "Web Development and Design",
+            "semesters": [
+                "First Semester"
+            ],
+            "units": 6,
+            "requirements": [],
+            "incompatible": [],
+            "specialRequirements": ""
+        }
+    ]
+}
